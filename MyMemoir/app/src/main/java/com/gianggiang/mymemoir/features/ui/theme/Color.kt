@@ -1,4 +1,4 @@
-package com.gianggiang.mymemoir.ui.theme
+package com.gianggiang.mymemoir.features.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
